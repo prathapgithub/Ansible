@@ -11,3 +11,6 @@ $ sudo apt-add-repository --yes --update ppa:ansible/ansible
 
 $ sudo apt-get install ansible
 
+# Step 2 :
+Genegrate ssh key
+
